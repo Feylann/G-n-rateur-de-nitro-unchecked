@@ -83,7 +83,7 @@ if (message.content === "/help") {
 })
 
 
-bot.login("Votre nitro ICI");
+bot.login("Votre token ICI");
 
 
 // Pour de l'aide : Skoun#2497
